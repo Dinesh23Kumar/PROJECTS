@@ -1,0 +1,5 @@
+id,name,age,gender,result
+1,"John Doe",30,M,"Eyes are healthy."
+2,"Jane Smith",25,F,"Eyes are healthy."
+3,dinesh,27,M,"Eye issues detected. Consult a specialist."
+5,ram,43,M,"Eye issues detected. Consult a specialist."
