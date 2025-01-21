@@ -11,7 +11,7 @@ public class Main {
     // JDBC URL, username, and password for MySQL
     public static final String DB_URL = "jdbc:mysql://localhost:3306/eyecheckupdb";
     public static final String DB_USER = "root";
-    public static final String DB_PASSWORD = "MyServer#123";  // Replace with actual password
+    public static final String DB_PASSWORD = "Password";  // Replace with actual password
 
     public static void main(String[] args) {
         EyeCheckupApp app = new EyeCheckupApp();
